@@ -11,3 +11,6 @@ addons:
 before_install:
   - mkdir -p src/protobuf
   - protoc --csharp_out=src/protobuf --proto_path=proto/proto bluzelle.proto database.proto audit.proto
+
+script:
+  - ls src/protobuf
