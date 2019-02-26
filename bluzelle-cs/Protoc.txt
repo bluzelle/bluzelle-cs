@@ -1,0 +1,1 @@
+protoc -I=bluzelle-cs.Protobuf/Proto --csharp_out=bluzelle-cs/Protocol bluzelle-cs.Protobuf/Proto/*.proto
