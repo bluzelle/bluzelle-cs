@@ -11,4 +11,4 @@ bluzelle-cs.Protobuf/Proto/*.proto
 bluzelle-cs.Tests/bin/
 bluzelle-cs.Tests/obj/
 
-BluzelleDotnet.sln
+*.sln
